@@ -1,0 +1,7 @@
+Hello World!
+
+My name is Hemant Singh Sidar.
+I am new to git.
+This is my first repository.
+
+Thank you...
